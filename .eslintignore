@@ -1,0 +1,15 @@
+/.next
+/.husky
+/build
+/out
+/public
+/_static
+/node_modules/**
+/.next
+/env
+/public
+/scripts
+.eslintrc.js
+.gitignore
+next-env.d.ts
+buildspec.yml
